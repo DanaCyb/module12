@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    padding: 20px;
+    background-color: cadetblue;
+}
+.box h2 {
+    border: 2px solid green;
+    margin: 20px;
+    padding: 20px;
+    background-color: aquamarine;
+}
+.trigger {
+    display: inline-block;
+    margin: 0 auto;
+}
+.tweet {
+    display: inline-block;
+    margin: 0 auto; 
+}
